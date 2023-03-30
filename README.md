@@ -1,1 +1,1 @@
-# nuxt-tailwind
+# Nuxt course 2022
